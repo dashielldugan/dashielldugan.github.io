@@ -22,9 +22,9 @@ author: Dashiell Dugan
 navbar-links:
   About Me: "bio"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Course Page: "https://glow.williams.edu/courses/7526173"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
