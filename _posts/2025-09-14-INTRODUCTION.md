@@ -19,4 +19,4 @@ I'd like to connect the two modes of creation - sewing and programming - to crea
 
 I don't enjoy polyester.
 
-##### Thumbnail image courtesy of London: Marlborough Fine Art, 1983. The artist is Frank Auerbach.
+_Thumbnail image courtesy of London: Marlborough Fine Art, 1983. Artist, Frank Auerbach._
