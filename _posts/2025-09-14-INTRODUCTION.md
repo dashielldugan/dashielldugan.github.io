@@ -1,7 +1,7 @@
 ---
 layout: post
 title: INTRODUCTION
-subtitle: Information regarding the author and function of this website 
+subtitle: Information on the author and function of this website 
 cover-img: /assets/img/path.jpg
 thumbnail-img: [thumbnail](https://dashielldugan.github.io/assets/img/frank.jpeg)
 share-img: /assets/img/path.jpg
