@@ -20,10 +20,11 @@ author: Dashiell Dugan
 ###############################################
 
 navbar-links:
-#  About Me: "bio"
+  About Me: "bio"
   Resources:
     - Course Page: "https://glow.williams.edu/courses/7526173"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - Quilt Archive: "https://quiltindex.org/"
 #  Author's home: "https://deanattali.com"
 
 ################
