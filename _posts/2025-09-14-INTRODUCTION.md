@@ -17,4 +17,6 @@ My knowledge of programming is much, much shallower than my knowledge of sewing.
 
 I'd like to connect the two modes of creation - sewing and programming - to create some projects which will align with some artistic vision that I have yet to see. I'd like to take the fundamentals of this course forward with me to continue creating pieces of art that incorporate elements of technology well into the future. It feels a little bit like breathing life into an object to be able to program it.
 
-I don't enjoy polyester.
+I don't enjoy polyester.[^1]
+
+[^1]: Thumbnail image courtesy of London: Marlborough Fine Art, 1983. The artist is Frank Auerbach.
