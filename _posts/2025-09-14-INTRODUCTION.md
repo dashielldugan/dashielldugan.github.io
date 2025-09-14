@@ -9,7 +9,7 @@ tags: [introduction, author, one]
 author: Dashiell Dugan
 ---
 
-My name is Dashiell Dugan - I am a junior (2027) at Williams College studying French Language and Literature and Studio Art. 
+My name is Dashiell Dugan - I am a junior (2027) at Williams College majoring in French Language and Literature and Studio Art. 
 
 I've been watching my mom sew since a young age, quilts and bags and dresses and pants and little stuffed dolls. I recently began sewing, about two years ago, and I'm quite excited to develop my skills, both hand sewing and machine sewing, throughout the duration of this course. 
 
@@ -17,6 +17,6 @@ My knowledge of programming is much, much shallower than my knowledge of sewing.
 
 I'd like to connect the two modes of creation - sewing and programming - to create some projects which will align with some artistic vision that I have yet to see. I'd like to take the fundamentals of this course forward with me to continue creating pieces of art that incorporate elements of technology well into the future. It feels a little bit like breathing life into an object to be able to program it.
 
-I don't enjoy polyester.[^1]
+I don't enjoy polyester.
 
-[^1]: Thumbnail image courtesy of London: Marlborough Fine Art, 1983. The artist is Frank Auerbach.
+##### Thumbnail image courtesy of London: Marlborough Fine Art, 1983. The artist is Frank Auerbach.
