@@ -2,9 +2,9 @@
 layout: post
 title: INTRODUCTION
 subtitle: A description of the archive to be built and of the author who is building it
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/mom.jpeg
 thumbnail-img: /assets/img/frank.jpeg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/mom.jpeg
 tags: [introduction, author, one]
 author: Dashiell Dugan
 ---
