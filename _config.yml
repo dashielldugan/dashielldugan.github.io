@@ -20,7 +20,7 @@ author: Dashiell Dugan
 ###############################################
 
 navbar-links:
-  About Me: "bio"
+  About Me: "About Me"
   Resources:
     - Course Page: "https://glow.williams.edu/courses/7526173"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
