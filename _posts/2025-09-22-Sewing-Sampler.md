@@ -8,6 +8,7 @@ share-img: /assets/img/IMG_7604_copy.jpeg
 tags: [sewing sampler, two]
 author: Dashiell Dugan
 ---
+
 This sewing sampler was a lovely experience - I was able to sit down and enjoy the rhythmic practice of hand sewing for a good deal of time. It was almost meditative. I unfortunately became a little too entrenched in my meditative state, and I lost focus on the consistency of my stitches because of it.
 
 ![Front of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9955.jpeg)
