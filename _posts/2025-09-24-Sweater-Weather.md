@@ -2,27 +2,25 @@
 layout: post
 title: Sweater Weather
 subtitle: Conditional Statements in C
-cover-img:
+cover-img: assets/img/IMG_8775.jpeg
 thumbnail-img: 
-share-img:
+share-img: assets/img/IMG_8775.jpeg
 tags: [sweater weather, three]
 author: Dashiell Dugan
 ---
 
-This sewing sampler was a lovely experience - I was able to sit down and enjoy the rhythmic practice of hand sewing for a good deal of time. It was almost meditative. I unfortunately became a little too entrenched in my meditative state, and I lost focus on the consistency of my stitches because of it.
+In this assignment, we used C (for the second time) to practice using conditional statements in regard to what weather is sweater appropriate. We had to use an if statement, an else if statement, and an else statement. Below are images of each of my outputs.
 
-![Front of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9955.jpeg)
+![Temperature above 70 degrees](https://dashielldugan.github.io/assets/img/sweaterone.png)
 
-My blanket stitch, for instance, was a little bit too loose on the second row, and has deviated from being in a straight line because of it. If I had taken the time to slow down and ensure the consistency of my stitches (my wonderful piece of advice to myself before I had begun this project) my sampler would have been more beautiful for it. 
+![Temperature at 70 degrees](https://dashielldugan.github.io/assets/img/sweatertwo.png)
 
-My second (free) piece of advice to myself would be to get an embroidery hoop - some stitches, like the woven stitch that I did, are very difficult to do without an embroidery hoop. The muslin will pull itself any which way, and you're stuck fighting against it instead of creating consistent stitches. 
+![Temperature above 40 degrees](https://dashielldugan.github.io/assets/img/sweaterthree.png)
 
-![Back of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9956.jpeg)
+![Temperature at 40 degrees](https://dashielldugan.github.io/assets/img/sweaterfour.png)
 
-The same is true of the satin stitch. I ended up doing the satin stitch in a way that didn't favor conserving fabric (and I've since learned my lesson by watching another youtube video...) because my stitches were coming up loose without the tension given by an embroidery hoop. While my satin stitch was beautiful and complete, it was a little bit wasteful on fabric, which I'll make sure to prioritize fixing the next time that I use it. 
+![Temperature above 0 degrees](https://dashielldugan.github.io/assets/img/sweaterfour.png)
 
-The two personal stitches that I chose were the fly stitch and the woven stitch. I chose each because I've used them before in personal sewing projects, for varying reasons. The woven stitch is good for filling in gaps (and is especially beautiful with varying fabric colors), while the fly stitch is a stich that works much like the cross stitch, providing a good amount of tension. 
+![Temperature at all other temperatures](https://dashielldugan.github.io/assets/img/Screenshot 2025-09-24 at 17.11.37.png)
 
-Speaking of the cross stitch...it was my favorite on the sewing sampler! I hope to use it more in future projects.
-
-_Thumbnail Image "Gingham Dog and Calico Cat Crib Quilt" (1920-1930) attributed to an unknown author in "American Quilt Treasures"_
+A tip that I would like to give to myself (the person I was before I started this assignment) is to be more flexible in regards to coding. I was troubled by the fact that I couldn't get any of the Boolean statements to work within my code (I'm still troubled by it, I'll be visiting student help hours soon...), and I sat there frustrated for about a half hour. Eventually, I figured out a work around that was quite simple, which I could have tried much earlier in the process and saved myself a good amount of frustration. There's always many ways to get to a result that you're looking for with coding, and sometimes it takes a few different variations to get what you want. I'll do my best to remember that.
