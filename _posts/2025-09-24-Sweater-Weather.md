@@ -20,7 +20,7 @@ Temperature above 40 degrees
 Temperature at 40 degrees
 ![Temperature at 40 degrees](https://dashielldugan.github.io/assets/img/sweaterfour.png)
 Temperature above 0 degrees
-![Temperature above 0 degrees](https://dashielldugan.github.io/assets/img/sweaterfour.png)
+![Temperature above 0 degrees](https://dashielldugan.github.io/assets/img/sweaterfive.png)
 All other temperatures 
 ![Temperature at all other temperatures](https://dashielldugan.github.io/assets/img/Screenshot 2025-09-24 at 17.11.37.png)
 
