@@ -9,20 +9,20 @@ tags: [circut plushy, four]
 author: Dashiell Dugan
 ---
 
-This sewing sampler was a lovely experience - I was able to sit down and enjoy the rhythmic practice of hand sewing for a good deal of time. It was almost meditative. I unfortunately became a little too entrenched in my meditative state, and I lost focus on the consistency of my stitches because of it.
+**1. Paper Prototype**
 
-![Front of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9955.jpeg)
+![Image of my the paper prototype for my plushy](https://dashielldugan.github.io/assets/img/Paper-Prototype-Hand.jpeg) 
 
-My blanket stitch, for instance, was a little bit too loose on the second row, and has deviated from being in a straight line because of it. If I had taken the time to slow down and ensure the consistency of my stitches (my wonderful piece of advice to myself before I had begun this project) my sampler would have been more beautiful for it. 
+**2. Alligator Prototyping on Felt Outline of Plushy**
 
-My second (free) piece of advice to myself would be to get an embroidery hoop - some stitches, like the woven stitch that I did, are very difficult to do without an embroidery hoop. The muslin will pull itself any which way, and you're stuck fighting against it instead of creating consistent stitches. 
+![Alligator Clips Prototype on the felt outline of the plushy](https://dashielldugan.github.io/assets/img/Alligator-Clips-Hand.jpeg)
 
-![Back of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9956.jpeg)
+**3. Front of the Plushy / 4. Back of the Plushy**
 
-The same is true of the satin stitch. I ended up doing the satin stitch in a way that didn't favor conserving fabric (and I've since learned my lesson by watching another youtube video...) because my stitches were coming up loose without the tension given by an embroidery hoop. While my satin stitch was beautiful and complete, it was a little bit wasteful on fabric, which I'll make sure to prioritize fixing the next time that I use it. 
+![Alligator Clips Prototype on the felt outline of the plushy](https://dashielldugan.github.io/assets/img/Front-Hand.jpeg)
 
-The two personal stitches that I chose were the fly stitch and the woven stitch. I chose each because I've used them before in personal sewing projects, for varying reasons. The woven stitch is good for filling in gaps (and is especially beautiful with varying fabric colors), while the fly stitch is a stich that works much like the cross stitch, providing a good amount of tension. 
+![Alligator Clips Prototype on the felt outline of the plushy](https://dashielldugan.github.io/assets/img/Back-Hand.jpeg)
 
-Speaking of the cross stitch...it was my favorite on the sewing sampler! I hope to use it more in future projects.
+This project introduced us both to circutry, and to sewing with conductive thread. The sewing was a continuation from the sewing sampler that we did earlier in the semester; we used just whip stitch and running stitch for this project. I think that my consistancy is beginning to improve, though it isn't perfect (what is............). We created a simple circut using three LED lights, a button, and a switch, sewing all upon the plushy. I had a great time with the circutry component of this project - I'm looking forward to doing a bit more in the future with it. The sewing was fun as always!
 
-_Thumbnail Image "Gingham Dog and Calico Cat Crib Quilt" (1920-1930) attributed to an unknown author in "American Quilt Treasures"_
+Some advice that I'd give myself, or another student who hasn't yet completed the project, would be to very carefully consider the conductive thread lines that will run throughout the project. To make sure that the positive sides of my thread didn't interact with the negative ends, I had to angle the thread on the front of the plushy in a strange direction to avoid any interaction on the inside. Some stuffing also might have helped with this. I think that good planning and patience is the key to doing well on projects in this class. Patience is a virtue!
