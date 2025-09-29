@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Circut Plushy (Hand) #1
-subtitle: The creation process and reflection of an circut plushy, which looks very much like a hand.
+subtitle: The creation process and reflection of my circut plushy, which looks very much like a hand.
 cover-img: /assets/img/Archie.jpeg
 thumbnail-img: /assets/img/Archie.jpeg
 share-img: /assets/img/Archie.jpeg
