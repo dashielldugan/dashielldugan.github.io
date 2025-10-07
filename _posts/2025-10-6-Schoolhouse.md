@@ -9,24 +9,18 @@ tags: [Schoolhouse, eight]
 author: Dashiell Dugan
 ---
 
-I've been doing a lot with pattern blocks in junior seminar (arts 319) this semester, thus I decided to explore creating a schoolhouse quilt block this week. 
+I've been doing a lot with pattern blocks in junior seminar (arts 319) this semester, thus I decided to explore creating a schoolhouse quilt block this week. We're working with circuts, focusing on points where the circut can open and close. We must create two circut openings which we close using homemade switches. 
 
+![Front of the Schoolhouse](https://dashielldugan.github.io/assets/img/Front-of-Schoolhouse.jpeg)
 
+The windows are cut out, with the light sewn in. The when the chimney is pushed down, which connects two conductive thread patches, and the door is shut, which connects some needles and a paperclip to a conductive fabric patch, the light will turn on.
 
+![Back of the Schoolhouse](https://dashielldugan.github.io/assets/img/Back-Of-Schoolhouse.jpeg)
 
+I used some hidden stitches this week, which worked better than I was expecting to hide patches on the right side of the fabric, in order to hide the conductive steel thread. 
 
-![Front of the Sewing Sampler](https://dashielldugan.github.io/assets/img/Front-of-Schoolhouse.jpeg)
+![Paper Prototype](https://dashielldugan.github.io/assets/img/Schoolhouse-Paper-Prototypejpeg)
 
-My blanket stitch, for instance, was a little bit too loose on the second row, and has deviated from being in a straight line because of it. If I had taken the time to slow down and ensure the consistency of my stitches (my wonderful piece of advice to myself before I had begun this project) my sampler would have been more beautiful for it. 
+![Alligator Clips on the Schoolhouse](https://dashielldugan.github.io/assets/img/Schoolhouse-Clips.jpeg)
 
-My second (free) piece of advice to myself would be to get an embroidery hoop - some stitches, like the woven stitch that I did, are very difficult to do without an embroidery hoop. The muslin will pull itself any which way, and you're stuck fighting against it instead of creating consistent stitches. 
-
-![Back of the Sewing Sampler](https://dashielldugan.github.io/assets/img/IMG_9956.jpeg)
-
-The same is true of the satin stitch. I ended up doing the satin stitch in a way that didn't favor conserving fabric (and I've since learned my lesson by watching another youtube video...) because my stitches were coming up loose without the tension given by an embroidery hoop. While my satin stitch was beautiful and complete, it was a little bit wasteful on fabric, which I'll make sure to prioritize fixing the next time that I use it. 
-
-The two personal stitches that I chose were the fly stitch and the woven stitch. I chose each because I've used them before in personal sewing projects, for varying reasons. The woven stitch is good for filling in gaps (and is especially beautiful with varying fabric colors), while the fly stitch is a stich that works much like the cross stitch, providing a good amount of tension. 
-
-Speaking of the cross stitch...it was my favorite on the sewing sampler! I hope to use it more in future projects.
-
-_Thumbnail Image "Gingham Dog and Calico Cat Crib Quilt" (1920-1930) attributed to an unknown author in "American Quilt Treasures"_
+My advice for this week would be to consider carefully what stitch types you'd like in the overall design. Perhaps my adivce is to make a thorough design.
