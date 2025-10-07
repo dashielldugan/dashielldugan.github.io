@@ -15,11 +15,11 @@ I've been doing a lot with pattern blocks in junior seminar (arts 319) this seme
 
 The windows are cut out, with the light sewn in. The when the chimney is pushed down, which connects two conductive thread patches, and the door is shut, which connects some needles and a paperclip to a conductive fabric patch, the light will turn on.
 
-![Back of the Schoolhouse](https://dashielldugan.github.io/assets/img/Back-Of-Schoolhouse.jpeg)
+![Back of the Schoolhouse](https://dashielldugan.github.io/assets/img/Back-of-Schoolhouse.jpeg)
 
 I used some hidden stitches this week, which worked better than I was expecting to hide patches on the right side of the fabric, in order to hide the conductive steel thread. 
 
-![Paper Prototype](https://dashielldugan.github.io/assets/img/Schoolhouse-Paper-Prototypejpeg)
+![Paper Prototype](https://dashielldugan.github.io/assets/img/Schoolhouse-Paper-Prototype.jpeg)
 
 ![Alligator Clips on the Schoolhouse](https://dashielldugan.github.io/assets/img/Schoolhouse-Clips.jpeg)
 
