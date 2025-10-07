@@ -23,4 +23,6 @@ I used some hidden stitches this week, which worked better than I was expecting 
 
 ![Alligator Clips on the Schoolhouse](https://dashielldugan.github.io/assets/img/Schoolhouse-Clips.jpeg)
 
+I had two lights in the alligator clips photo, but I decided that the design would look better with one as the process continued.
+
 My advice for this week would be to consider carefully what stitch types you'd like in the overall design. Perhaps my adivce is to make a thorough design.
