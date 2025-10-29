@@ -10,7 +10,7 @@ author: Dashiell Dugan
 ---
 We used temperature and light detectors in this assignment to detect the presence of ghosts....who make the room dark and cold. If the temperature read on the sensor went below a predetermined value (and the same for the light) two red onboard LEDs would turn on to alert the user of the presence of a ghost. 
 
-![Ghost OFF](https://dashielldugan.github.io/assets/img/Ghost_Off.jpeg)
+![Ghost OFF](https://dashielldugan.github.io/assets/img/Ghost_OFF.jpeg)
 
 ![Ghost ON](https://dashielldugan.github.io/assets/img/Ghost_On.jpeg)
 
